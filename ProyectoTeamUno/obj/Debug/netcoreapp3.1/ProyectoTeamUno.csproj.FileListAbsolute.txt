@@ -1,0 +1,11 @@
+C:\Users\germa\source\repos\ProyectoTeamUno\bin\Debug\netcoreapp3.1\ProyectoTeamUno.exe
+C:\Users\germa\source\repos\ProyectoTeamUno\bin\Debug\netcoreapp3.1\ProyectoTeamUno.deps.json
+C:\Users\germa\source\repos\ProyectoTeamUno\bin\Debug\netcoreapp3.1\ProyectoTeamUno.runtimeconfig.json
+C:\Users\germa\source\repos\ProyectoTeamUno\bin\Debug\netcoreapp3.1\ProyectoTeamUno.runtimeconfig.dev.json
+C:\Users\germa\source\repos\ProyectoTeamUno\bin\Debug\netcoreapp3.1\ProyectoTeamUno.dll
+C:\Users\germa\source\repos\ProyectoTeamUno\bin\Debug\netcoreapp3.1\ProyectoTeamUno.pdb
+C:\Users\germa\source\repos\ProyectoTeamUno\obj\Debug\netcoreapp3.1\ProyectoTeamUno.csprojAssemblyReference.cache
+C:\Users\germa\source\repos\ProyectoTeamUno\obj\Debug\netcoreapp3.1\ProyectoTeamUno.AssemblyInfoInputs.cache
+C:\Users\germa\source\repos\ProyectoTeamUno\obj\Debug\netcoreapp3.1\ProyectoTeamUno.AssemblyInfo.cs
+C:\Users\germa\source\repos\ProyectoTeamUno\obj\Debug\netcoreapp3.1\ProyectoTeamUno.dll
+C:\Users\germa\source\repos\ProyectoTeamUno\obj\Debug\netcoreapp3.1\ProyectoTeamUno.pdb
